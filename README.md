@@ -4,9 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crocodileur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="crocodileur" /> </p>
 
 - 🌱 I’m currently learning **Python & Cybersecurity**
-- <a href="https://bec-expert.ro">Bec h7 led</a>
-  <a href="https://wieczna-roza.pl">Wieczna Roza</a>
-  <a href="https://cactus-vorbitor.ro">Cactus vorbitor</a> 
 
 </p>
 
