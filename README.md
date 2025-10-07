@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Crocodileur</h1>
 <h3 align="center">I like Python</h3>
-
+<h5 align="center">Student @ Imt Atlantique</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crocodileur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="crocodileur" /> </p>
 
 - 🌱 I’m currently learning **Python & Cybersecurity**
